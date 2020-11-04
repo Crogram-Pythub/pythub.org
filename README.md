@@ -1,2 +1,2 @@
-# pythub.com
+# pythub.org
 the Official Website for Pythub
