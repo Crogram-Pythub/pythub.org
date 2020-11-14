@@ -5,11 +5,11 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Python桌面应用程序合集。A Python GUI（Tkinter）Application Hub" />
+    <meta name="description" content="Python桌面应用程序合集。A Python GUI Application Hub" />
     <meta name="keywords" content="PytHub, Python, Python GUI, Tkinter" />
     <meta name="author" content="doudoudzj(唐钰豆豆)" />
     <link rel="icon" href="favicon.ico" />
-    <title>PytHub - Python桌面应用程序合集</title>
+    <title>显示系统所有文件 for Mac V0.0.1</title>
     <link href="assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
     <link href="assets/css/style.css" rel="stylesheet" />
 </head>
@@ -24,24 +24,7 @@
                 <a class="navbar-brand" href="index.html">PYTHUB</a>
             </div>
             <div id="navbar" class="collapse navbar-collapse">
-                <!-- <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="#">Action</a></li>
-                            <li><a href="#">Another action</a></li>
-                            <li><a href="#">Something else here</a></li>
-                            <li role="separator" class="divider"></li>
-                            <li class="dropdown-header">Nav header</li>
-                            <li><a href="#">Separated link</a></li>
-                            <li><a href="#">One more separated link</a></li>
-                        </ul>
-                    </li>
-                </ul> -->
-                <p class="navbar-text">Python桌面应用程序合集</p>
+                <p class="navbar-text">显示系统所有文件 for Mac</p>
                 <div class="navbar-right">
                     <p class="navbar-text">A Python GUI Application Hub</p>
                 </div>
@@ -51,19 +34,31 @@
     <div class="container">
         <div class="row">
             <!-- apps -->
-            <div class="col-xs-12 col-sm-6 col-md-3">
+            <div class="col-xs-12 col-sm-6 col-md-6">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title">
-                            <a href="#apps" role="button" data-toggle="collapse" aria-expanded="true" aria-controls="apps">Apps</a>
-                        </h4>
+                        <h4 class="panel-title">软件简介</h4>
                     </div>
-                    <div id="apps" class="panel-collapse collapse in">
-                        <div class="panel-body">
-                            <p><a href="https://github.com/pythub-project/Pythub">Pythub 桌面客户端</a></p>
-                            <p><a href="./show-all-files-for-mac.html">显示系统所有文件 for Mac</a></p>
-                            <p><a href="./string-utilities.html">字符串处理工具</a></p>
-                        </div>
+                    <div class="panel-body">
+                        <h5>显示系统所有文件 for Mac V0.0.1</h5>
+                        <p>使用 Python 语言开发，UI 基于 Tkinter</p>
+                        <p>主要功能：一键切换显示系统所有文件（以及隐藏文件）</p>
+                        <p>源码地址：<a href="https://github.com/pythub-project/show-all-files-for-mac" target="_blank">https://github.com/pythub-project/show-all-files-for-mac</a></p>
+                        <p>下载地址：<a href="https://github.com/pythub-project/show-all-files-for-mac/releases/latest" target="_blank">Mac</a></p>
+                        <hr>
+                        <p>Mac端应用不能运行的，需要自行添加签名。执行如下命令</p>
+                        <code>sudo codesign --force --deep --sign - 应用程序路径</code>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">软件预览</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>Mac端：</p>
+                        <img class="img-responsive" src="./screenshots/show-all-files-for-mac@2x.png" alt="显示系统所有文件 for Mac">
                     </div>
                 </div>
             </div>
