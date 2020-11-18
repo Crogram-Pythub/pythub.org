@@ -9,7 +9,7 @@
     <meta name="keywords" content="PytHub, Python, Python GUI, Tkinter" />
     <meta name="author" content="doudoudzj(唐钰豆豆)" />
     <link rel="icon" href="favicon.ico" />
-    <title>GUI应用生成器</title>
+    <title>DouFTP服务端 GUI应用程序</title>
     <link href="assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
     <link href="assets/css/style.css" rel="stylesheet" />
 </head>
@@ -24,9 +24,9 @@
                 <a class="navbar-brand" href="index.html">PYTHUB</a>
             </div>
             <div id="navbar" class="collapse navbar-collapse">
-                <p class="navbar-text">GUI应用生成器</p>
+                <p class="navbar-text">DouFTP服务端 GUI应用程序</p>
                 <div class="navbar-right">
-                    <p class="navbar-text"><a href="https://github.com/pythub-project/pyinstaller-desktop" target="_blank">源码</a></p>
+                    <p class="navbar-text"><a href="https://github.com/douftp/douftp-server" target="_blank">源码</a></p>
                 </div>
             </div>
         </nav>
@@ -39,11 +39,17 @@
                         <h4 class="panel-title">软件简介</h4>
                     </div>
                     <div class="panel-body">
-                        <h5>GUI应用生成器</h5>
-                        <p>一个 PyInstaller 的 GUI 实现，使用 Python 语言开发，GUI 基于 Tkinter，利用 PyInstaller 将 Python 脚本语言打包发布成单个的可执行程序，</p>
-                        <p>状态：<span class="label label-info">开发中</span></p>
-                        <p>源码地址：<a href="https://github.com/pythub-project/pyinstaller-desktop" target="_blank">https://github.com/pythub-project/pyinstaller-desktop</a></p>
-                        <p>下载地址：<a href="https://github.com/pythub-project/pyinstaller-desktop/releases/latest" target="_blank">Mac 端</a></p>
+                        <h5>DouFTP服务端 GUI应用程序 V0.0.1</h5>
+                        <p>一个简单的FTP服务器端 GUI 应用程序，使用 Python 语言开发，GUI 基于 Tkinter，主要包含功能：</p>
+                        <p>可以修改有权限的用户名、密码及端口</p>
+                        <p>匿名用户访问只能浏览</p>
+                        <p>可以修改路径，弹出文件夹选择窗口</p>
+                        <p>启动和停止按钮可以交互显示</p>
+                        <p>对文件夹路径做判断，不合理的会有提示</p>
+                        <hr>
+                        <p>官网地址：<a href="https://douftp.org/server.html" target="_blank">https://douftp.org/server.html</a></p>
+                        <p>源码地址：<a href="https://github.com/douftp/douftp-server" target="_blank">https://github.com/douftp/douftp-server</a></p>
+                        <p>下载地址：<a href="https://github.com/douftp/douftp-server/releases/latest" target="_blank">Mac 端</a></p>
                         <hr>
                         <p>Mac 端应用不能运行的，需要自行添加签名。执行如下命令</p>
                         <code>sudo codesign --force --deep --sign - 应用程序路径</code>
@@ -57,7 +63,7 @@
                     </div>
                     <div class="panel-body">
                         <p>Mac端：</p>
-                        <img class="img-thumbnail" src="./screenshots/pyinstaller-desktop@2x.png" alt="GUI应用生成器">
+                        <img class="img-thumbnail" src="./screenshots/douftp-server@2x.png" alt="字符串处理工具">
                     </div>
                 </div>
             </div>
