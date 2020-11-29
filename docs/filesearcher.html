@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Python桌面应用程序合集。A Python GUI Application Hub" />
+    <meta name="keywords" content="文件搜索工具,PytHub, Python, Python GUI, Tkinter" />
+    <meta name="author" content="doudoudzj(唐钰豆豆)" />
+    <link rel="icon" href="favicon.ico" />
+    <title>文件搜索工具</title>
+    <link href="assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="assets/css/style.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container">
+        <nav class="navbar navbar-default">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">PYTHUB</a>
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+                <p class="navbar-text">文件搜索工具</p>
+                <div class="navbar-right">
+                    <p class="navbar-text"><a href="https://github.com/pythub-project/filesearcher" target="_blank">源码</a></p>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">软件简介</h4>
+                    </div>
+                    <div class="panel-body">
+                        <h5>文件搜索工具 V0.0.1</h5>
+                        <p>一个简单的文件搜索工具，使用 Python 语言开发，GUI 基于 Tkinter，主要包含功能：</p>
+                        <p>1. 文件名可为空，输入指定文件后缀，选择文件夹搜索文件</p>
+                        <p>2. 重置输入的数据</p>
+                        <p>3. 清理列表数据</p>
+                        <p>源码地址：<a href="https://github.com/pythub-project/filesearcher" target="_blank">https://github.com/pythub-project/filesearcher</a></p>
+                        <p>下载地址：<a href="https://github.com/pythub-project/filesearcher/releases/latest" target="_blank">Mac 端</a></p>
+                        <hr />
+                        <p>Mac 端应用不能运行的，需要自行添加签名。执行如下命令</p>
+                        <code>chmod +x dist/文件搜索工具.app/Contents/MacOS/文件搜索工具</code>
+                        <br />
+                        <code>sudo codesign --force --deep --sign - ./dist/文件搜索工具.app</code>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">软件预览</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>Mac端：</p>
+                        <img class="img-thumbnail" src="./screenshots/filesearcher@2x.png" alt="字符串处理工具">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer">
+        <div class="container">
+            <p class="text-muted">
+                <span>&copy; 2019-2020 <a href="https://pythub.org">PytHub</a></span>
+                <span>Powered by <a href="https://crogram.org" target="blank">Crogram</a></span>
+            </p>
+        </div>
+    </footer>
+    <script src="assets/lib/jquery/jquery.min.js"></script>
+    <script src="assets/lib/bootstrap/js/bootstrap.min.js"></script>
+</body>
+
+</html>
