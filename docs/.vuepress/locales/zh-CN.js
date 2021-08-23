@@ -34,6 +34,14 @@ module.exports = {
                     ]
                 }
             ]
+        },
+        {
+            text: '相关资源',
+            items: [
+                { text: 'Python 官网', link: 'https://www.python.org/' },
+                { text: 'Tk图形用户界面(GUI)', link: 'https://docs.python.org/zh-cn/3/library/tk.html' },
+                { text: 'PyInstaller', link: 'http://www.pyinstaller.org/' }
+            ]
         }
     ]
     // sidebar: 'auto'

@@ -29,6 +29,14 @@ module.exports = {
                     ]
                 }
             ]
+        },
+        {
+            text: 'Resources',
+            items: [
+                { text: 'Python', link: 'https://www.python.org/' },
+                { text: 'GUI with Tk', link: 'https://docs.python.org/3/library/tk.html' },
+                { text: 'PyInstaller', link: 'http://www.pyinstaller.org/' }
+            ]
         }
     ]
     // sidebar: 'auto'
