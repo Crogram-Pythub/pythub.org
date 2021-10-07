@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /images/hero.png
-actionText: Get Started →
+actionText: 快速上手 →
 actionLink: /zh-cn/filesearcher
-footer: BSD Licensed | Copyright © 2019-present Crogram
+footer: BSD Licensed | 版权所有 © 2019-present 程江科技
 ---
