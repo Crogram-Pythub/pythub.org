@@ -4,7 +4,7 @@ module.exports = {
     '/': {
         lang: 'en-US', // 将会被设置为 <html> 的 lang 属性
         title: 'PytHub',
-        description: 'A Python GUI（Tkinter）Application Hub'
+        description: 'Python Toolkit Hub'
     },
     '/zh-cn/': {
         lang: 'zh-CN',
