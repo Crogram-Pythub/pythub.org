@@ -12,16 +12,9 @@
 
 下载地址：[Mac 端](https://github.com/pythub-project/pyinstaller-desktop/releases/latest)
 
----
-
-Mac 端应用不能运行的，需要自行添加签名。执行如下命令
-
-```sh
-sudo codesign --force --deep --sign - 应用程序路径
-```
 
 #### 软件预览
 
 Mac 端：
 
-![GUI应用生成器](/images/screenshots/pyinstaller-desktop@2x.png)
+![GUI应用生成器](/images/pyinstaller-desktop/1.png)

@@ -17,10 +17,11 @@ module.exports = {
             text: 'Software List',
             ariaLabel: 'Software List',
             items: [
-                { text: 'File Searcher', link: '/filesearcher' },
-                { text: 'Pyinstaller Desktop', link: '/pyinstaller-desktop' },
-                { text: 'Show All Files for Mac', link: '/show-all-files-for-mac' },
-                { text: 'String Utilities', link: '/string-utilities' },
+                { text: 'File Searcher', link: '/filesearcher/' },
+                { text: 'PyInstaller Desktop', link: '/pyinstaller-desktop/' },
+                { text: 'Show All Files', link: '/show-all-files/' },
+                { text: 'String Utilities', link: '/string-utilities/' },
+                { text: 'Password Assistant', link: '/password-assistant/' },
                 {
                     text: 'DouFTP',
                     items: [

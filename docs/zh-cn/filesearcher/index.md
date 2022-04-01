@@ -1,4 +1,4 @@
-# 文件搜索工具 V0.0.1
+# 文件搜索工具
 
 ## 软件简介
 
@@ -14,17 +14,9 @@
 
 下载地址：[Mac 端](https://github.com/pythub-project/filesearcher/releases/latest)
 
----
-
-Mac 端应用不能运行的，需要自行添加签名。执行如下命令
-
-```
-chmod +x dist/文件搜索工具.app/Contents/MacOS/文件搜索工具`
-`sudo codesign --force --deep --sign - ./dist/文件搜索工具.app
-```
 
 ## 软件预览
 
 Mac 端：
 
-![字符串处理工具](/images/screenshots/filesearcher@2x.png)
+![字符串处理工具](/images/filesearcher/1.png)
