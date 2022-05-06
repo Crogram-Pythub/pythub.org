@@ -36,7 +36,9 @@ module.exports = {
             items: [
                 { text: 'Python', link: 'https://www.python.org/' },
                 { text: 'GUI with Tk', link: 'https://docs.python.org/3/library/tk.html' },
-                { text: 'PyInstaller', link: 'http://www.pyinstaller.org/' }
+                { text: 'PyInstaller', link: 'http://www.pyinstaller.org/' },
+                { text: 'wxPython', link: 'https://wxpython.org/' },
+                { text: 'wxWidgets', link: 'https://www.wxwidgets.org/' }
             ]
         }
     ]
