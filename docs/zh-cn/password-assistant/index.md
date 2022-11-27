@@ -13,9 +13,9 @@
 2. 禁止网络连接
 
 
-源码地址：https://github.com/pythub-project/password-assistant
+源码地址：https://github.com/crogram-pythub/password-assistant
 
-下载地址：[Mac 端](https://github.com/pythub-project/password-assistant/releases/latest)
+下载地址：[Mac 端](https://github.com/crogram-pythub/password-assistant/releases/latest)
 
 
 ## 预览

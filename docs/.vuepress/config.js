@@ -19,7 +19,7 @@ module.exports = {
         ['link', { rel: 'icon', href: '/favicon.ico' }]
     ],
     themeConfig: {
-        repo: 'pythub-project/pythub.org',
+        repo: 'crogram-pythub/pythub.org',
         docsBranch: 'master',
         docsDir: 'docs/', // 文档源文件存放在仓库中的目录名
         editLinks: true,

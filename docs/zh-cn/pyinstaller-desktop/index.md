@@ -8,9 +8,9 @@
 
 状态：**开发中**
 
-源码地址：https://github.com/pythub-project/pyinstaller-desktop
+源码地址：https://github.com/crogram-pythub/pyinstaller-desktop
 
-下载地址：[Mac 端](https://github.com/pythub-project/pyinstaller-desktop/releases/latest)
+下载地址：[Mac 端](https://github.com/crogram-pythub/pyinstaller-desktop/releases/latest)
 
 
 #### 软件预览

@@ -6,9 +6,9 @@
 
 主要功能：一键切换显示系统所有文件（以及隐藏文件）
 
-源码地址：https://github.com/pythub-project/show-all-files
+源码地址：https://github.com/crogram-pythub/show-all-files
 
-下载地址：[Mac 端](https://github.com/pythub-project/show-all-files/releases/latest)
+下载地址：[Mac 端](https://github.com/crogram-pythub/show-all-files/releases/latest)
 
 
 ## 软件预览

@@ -10,9 +10,9 @@
 
 3. Base32 编码与解码
 
-源码地址：https://github.com/pythub-project/string-utilities
+源码地址：https://github.com/crogram-pythub/string-utilities
 
-下载地址：[Mac 端](https://github.com/pythub-project/string-utilities/releases/latest)
+下载地址：[Mac 端](https://github.com/crogram-pythub/string-utilities/releases/latest)
 
 
 ## 软件预览

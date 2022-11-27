@@ -10,9 +10,9 @@
 
 3. 清理列表数据
 
-源码地址：https://github.com/pythub-project/filesearcher
+源码地址：https://github.com/crogram-pythub/filesearcher
 
-下载地址：[Mac 端](https://github.com/pythub-project/filesearcher/releases/latest)
+下载地址：[Mac 端](https://github.com/crogram-pythub/filesearcher/releases/latest)
 
 
 ## 软件预览
