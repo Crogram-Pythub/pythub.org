@@ -1,6 +1,5 @@
 # Pythub Builder - PyInstaller 图形化打包工具
 
-
 ## 软件简介
 
 ### Pythub Builder
