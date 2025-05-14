@@ -1,3 +1,3 @@
 # pythub.org
 
-the Official Website for PyThub
+the Official Website for Pythub

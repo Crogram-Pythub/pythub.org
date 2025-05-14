@@ -18,7 +18,7 @@ module.exports = {
             ariaLabel: 'Software List',
             items: [
                 { text: 'File Searcher', link: '/filesearcher/' },
-                { text: 'PyInstaller Desktop', link: '/pyinstaller-desktop/' },
+                { text: 'Pythub Builder', link: '/pythub-builder/' },
                 { text: 'Show All Files', link: '/show-all-files/' },
                 { text: 'String Utilities', link: '/string-utilities/' },
                 { text: 'Password Assistant', link: '/password-assistant/' },

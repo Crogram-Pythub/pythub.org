@@ -23,7 +23,7 @@ module.exports = {
             ariaLabel: '软件列表',
             items: [
                 { text: '文件搜索工具', link: '/zh-cn/filesearcher/' },
-                { text: 'GUI应用生成器', link: '/zh-cn/pyinstaller-desktop/' },
+                { text: 'Pythub Builder', link: '/zh-cn/pythub-builder/' },
                 { text: '显示系统所有文件', link: '/zh-cn/show-all-files/' },
                 { text: '字符串处理工具', link: '/zh-cn/string-utilities/' },
                 { text: '账号密码助手', link: '/zh-cn/password-assistant/' },

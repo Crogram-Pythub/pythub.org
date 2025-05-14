@@ -2,7 +2,7 @@ const locales = require('./locales/index')
 const localesConfig = require('./locales/localesConfig')
 
 module.exports = {
-    title: 'PyThub',
+    title: 'Pythub',
     description: 'Python 桌面应用程序合集',
     locales: locales,
     head: [
@@ -11,7 +11,7 @@ module.exports = {
         ['meta', { 'http-equiv': 'X-UA-Compatible', content: 'IE=edge, chrome=1' }],
         ['meta', { name: 'author', content: 'CROGRAM' }],
         ['meta', { name: 'copyright', content: 'CROGRAM 程江开源' }],
-        ['meta', { name: 'keywords', content: 'PyThub, Python, Python GUI, Tkinter' }],
+        ['meta', { name: 'keywords', content: 'Pythub, Python, Python GUI, Tkinter' }],
         // ['meta', { name: 'baidu-site-verification', content: '' }],
         // ['meta', { name: 'google-site-verification', content: '' }],
         ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],

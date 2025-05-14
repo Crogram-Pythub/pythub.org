@@ -1,6 +1,6 @@
 # 账号密码助手
 
-> PyThub Password Assistant
+> Pythub Password Assistant
 
 ## 简介
 

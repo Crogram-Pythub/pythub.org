@@ -8,13 +8,13 @@
 
 状态：**开发中**
 
-源码地址：https://github.com/crogram-pythub/pyinstaller-desktop
+源码地址：https://github.com/crogram-pythub/pythub-builder
 
-下载地址：[Mac 端](https://github.com/crogram-pythub/pyinstaller-desktop/releases/latest)
+下载地址：[Mac 端](https://github.com/crogram-pythub/pythub-builder/releases/latest)
 
 
 #### 软件预览
 
 Mac 端：
 
-![GUI应用生成器](/images/pyinstaller-desktop/1.png)
+![GUI应用生成器](/images/pythub-builder/1.png)
